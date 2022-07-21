@@ -7,6 +7,7 @@ import "hardhat/console.sol";
 contract WavePortal {
     uint256 totalWaves;
 
+
     constructor() {
         console.log("Yo");
     }
